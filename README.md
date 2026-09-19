@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I'm Aymen Zid 👋
 
-<!--
-**zid7320/zid7320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer (EPI Digital School, 2026), specialized in Full-Stack development and IoT. Strong foundation in Python, JavaScript, C, C++, and C#, with the ability to quickly adapt to any language or framework a project requires. Based in Sousse, Tunisia.
 
-Here are some ideas to get you started:
+Experience building web platforms (Angular, Spring Boot, Node.js, React), connected/embedded systems (ESP32, MQTT), workflow automation (n8n), and AI/ML-based automations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Available now for freelance work — web development, AI and workflow automation, bug fixes — fast turnaround.
+
+---
+
+### 🛠️ Skills
+
+**Languages:** Python, JavaScript, C, C++, C#
+**Web:** Angular, Spring Boot, Node.js, React, REST APIs, WebSockets
+**IoT & Embedded:** ESP32, Arduino, Raspberry Pi, MQTT, sensor integration
+**Automation:** n8n, AI/ML-based workflows
+**Databases:** MySQL, SQLite
+**Tools:** Git, VS Code
+
+---
+
+### 📫 Contact
+
+- Email: aymenzid607@gmail.com
+- LinkedIn: [linkedin.com/in/zid-aymen-65a971386](https://linkedin.com/in/zid-aymen-65a971386)
